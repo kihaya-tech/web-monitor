@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Example Site 1",
+    "url": "https://example.com",
+    "selector": "body",
+    "check_interval": "hourly"
+  },
+  {
+    "name": "Example Site 2",
+    "url": "https://example.org",
+    "selector": "main",
+    "check_interval": "hourly"
+  }
+]
